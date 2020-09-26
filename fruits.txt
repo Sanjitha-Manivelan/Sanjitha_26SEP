@@ -1,2 +1,7 @@
 Strawberry
+<<<<<<< HEAD
 Grape
+=======
+Apple
+>>>>>>> test
+JackD
