@@ -65,9 +65,10 @@ When you want to access one commit.
 section4 : Group discussion and give common answer
 
   - When will you use revert and reset ?
-
+We revert undoes the last commit. We use git reset --soft changing commits, git reset --hard is to deleted the commit, git reset --mixed will move to the working derectory.
   - git reset : explain diff between git reset --mixed , --soft --hard
-
+We use git reset --soft changing commits, git reset --hard is to deleted the commit, git reset --mixed will move to the working derectory.
   - can you recover file if you do git reset --hard
-
+no
   - Why do you use git diff ?
+We use git diff to compare two data.
